@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I am a MS student in Scientific Computing at NYU's Courant Institute. I enjoy working on problem statements in Deep Learning! Currently, I am working on a project involving CUDA programming & Graph Neural Networks!
+
+Here are some of projects I have worked on,
+
+1. Twitter users' demographic information classification (at Giant Oak, Inc).
+2. Prototyping a micro-serive to classify age, gender and racial biases in large texts (at The New School).
+3. Deploying a micro-serive to analyze real-time sentiment of top traded stocks on Twitter.
+4. Improving generalization error in large language models (LLMs).
+5. ...
+...
+
+
+
 <!--
 **pradyGn/PradyGn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
