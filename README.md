@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a MS student in Scientific Computing at NYU's Courant Institute. I enjoy working on problem statements in Deep Learning! Currently, I am working on a project involving CUDA programming & Graph Neural Networks!
+I am a MS student (CS & Math) at NYU's Courant Institute. I enjoy working on problem statements in Deep Learning! Currently, I am working on a project involving CUDA programming & Graph Neural Networks!
 
 ML Frameworks: PyTorch, Tensorflow, Scikit-Learn, HuggingFace, XGBoost, SciPy, DGL, OpenCV, SpaCy, NLTK, ...
 
