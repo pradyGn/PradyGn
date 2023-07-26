@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a MS student (CS & Math) at NYU's Courant Institute. I enjoy working on problem statements in Deep Learning! Currently, I am working on a project involving CUDA programming & Graph Neural Networks!
+I am a NYU Courant graduate and a Jr. Data Scientist at Indigo.
 
 ### Here are some of my skills,
 
