@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a NYU Courant graduate and a Jr. Data Scientist at Indigo. We at Indigo are build the nextgen InsureTech platform.
+I am a NYU Courant graduate and a Jr. Data Scientist at Indigo. We at Indigo are build the nextgen InsureTech platform. 🦸‍♂️✨
 
 ### Here are some of my skills,
 
