@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello Citizens Of The World! 👋 ✨
 
-I am a NYU Courant graduate and a Jr. Data Scientist at Indigo. We at Indigo are build the nextgen InsureTech platform. 🦸‍♂️✨
+I am a Data Science professional with a little under 4 years of experience in the Data Science domain. 
+
+I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
 
 ### Here are some of my skills,
 
