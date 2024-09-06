@@ -1,4 +1,4 @@
-### Hello Citizens Of The World! 👋 ✨
+### Hello! 👋 ✨
 
 I am a Data Science professional with 3+ years of experience in the Data Science domain. 
 I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
