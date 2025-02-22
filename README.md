@@ -1,5 +1,8 @@
 ### Hello! 👋 ✨
 
+![star_ascii_art](https://github.com/user-attachments/assets/aea088d3-7917-47c9-bc60-75f721c42c1e)
+
+
 I am a Data Science professional with 3+ years of experience in the Data Science domain. 
 I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
 
