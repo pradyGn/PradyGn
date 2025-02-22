@@ -1,5 +1,7 @@
 ### Hello! 👋 ✨
 
+![star_ascii_2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c1f27be0-f705-4542-995f-2bfced0bcf12)
+
 I am a Data Science professional with 3+ years of experience in the Data Science domain. 
 I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
 
