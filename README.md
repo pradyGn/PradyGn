@@ -1,21 +1,26 @@
+<p align="center">
 ### Hello! 👋 ✨
+</p>
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aea088d3-7917-47c9-bc60-75f721c42c1e" alt="star_ascii_art" />
+</p>
 
-![star_ascii_art](https://github.com/user-attachments/assets/aea088d3-7917-47c9-bc60-75f721c42c1e)
+<p align="center">
+  I am a Data Science professional with 3+ years of experience in the Data Science domain. 
+  I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
+</p>
 
-
-I am a Data Science professional with 3+ years of experience in the Data Science domain. 
-I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
-
-### Here are some of my skills,
-
-MLOps frameworks: AWS Sagemaker, AWS Notebook Instances, AWS Studio Classic Notebooks, Docker, ...
-
-ML Frameworks: HuggingFace, PEFT, PyTorch, Tensorflow, XGBoost, Deep Graph Library, Scikit-Learn, ...
-
-Data Engineering frameworks: AWS EMR
-
-Programming Languages: Python, C++, CUDA, MATLAB.
-...
+  ### Here are some of my skills,
+  
+  MLOps frameworks: AWS Sagemaker, AWS Notebook Instances, AWS Studio Classic Notebooks, Docker, ...
+  
+  ML Frameworks: HuggingFace, PEFT, PyTorch, Tensorflow, XGBoost, Deep Graph Library, Scikit-Learn, ...
+  
+  Data Engineering frameworks: AWS EMR
+  
+  Programming Languages: Python, C++, CUDA, MATLAB.
+  ...
 
 
 
