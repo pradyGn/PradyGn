@@ -1,10 +1,6 @@
 <div align="center">
   <h3>Hello! 👋 ✨</h3>
 </div>
-  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aea088d3-7917-47c9-bc60-75f721c42c1e" alt="star_ascii_art" />
-</p>
 
 <p align="center">
   I am a Data Science professional with 3+ years of experience in the Data Science domain. 
