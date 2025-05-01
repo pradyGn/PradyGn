@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  I am a Data Science professional with 3+ years of experience in the Data Science domain. 
-  I am a MS Applied Math graduate from NYU currently wotking in the InsurTech space!
+  I am a Data Scientist. I love language modeling! 
+  I have an Applied Math background currently wotking in the InsurTech space!
 </p>
 
 ### Here are some of my skills,
