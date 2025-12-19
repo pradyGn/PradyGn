@@ -3,20 +3,10 @@
 </div>
 
 <p align="center">
-  I am a Data Scientist. I love language modeling! 
-  I have an Applied Math background currently wotking in the InsurTech space!
+  I am an Applied Scientist focused on building Small Language Models from scratch (pre-training, fine-tuning, distillation, dataset curation, etc). I also enjoy designing efficient software architecture and data pipelines.
+  
+  Core Stack: Python, PyTorch, Transformers, PEFT, Boosting Models, AWS, GCP, dbt, SQL.
 </p>
-
-### Here are some of my skills,
-
-MLOps frameworks: AWS Sagemaker, AWS Notebook Instances, AWS Studio Classic Notebooks, Docker, ...
-
-ML Frameworks: HuggingFace, PEFT, PyTorch, Tensorflow, XGBoost, Deep Graph Library, Scikit-Learn, ...
-
-Data Engineering frameworks: AWS EMR
-
-Programming Languages: Python, C++, CUDA, MATLAB.
-...
 
 
 
