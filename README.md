@@ -6,7 +6,7 @@
     <td width="70%" style="vertical-align: top;">
       <h3>About Me</h3>
       <p>
-        I am an Applied Scientist focused on building Small Language Models from scratch (pre-training, fine-tuning, distillation, dataset curation, etc). I also enjoy designing efficient software architecture and data pipelines.
+        I am an Applied Scientist focused on building Small Language Models from scratch (pre-training, instruction-tuning, distillation, dataset curation, etc). I also enjoy designing efficient software architecture and data pipelines.
       </p>
       <p>
         <b>Core Stack:</b> Python, PyTorch, Transformers, PEFT, Boosting Models, AWS, GCP, dbt, SQL.
